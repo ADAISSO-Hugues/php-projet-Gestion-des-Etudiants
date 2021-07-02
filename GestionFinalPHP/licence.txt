@@ -1,0 +1,5 @@
+ouvrir le dossier Gestion bien dans le terminal
+
+tapez la commande :
+composer update 
+NB: vous devez forcement generer la dépence de autoload pour que le code fonction
